@@ -7,6 +7,8 @@ npm run dev zz.ab
 npm run  build
 ```
 
+## 支持多入口
+在apps目录下创建多个应用
 ## 支持eslinit
 
 ## 支持vuex
