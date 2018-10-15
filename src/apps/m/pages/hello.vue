@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="demo">
         name mm 1
     </div>
 </template>
@@ -59,5 +59,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang='css' scoped>
-
+.demo{
+    display: flex;
+}
 </style>
